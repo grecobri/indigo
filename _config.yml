@@ -15,16 +15,7 @@ picture: assets/images/profile.jpg
 # false to light theme, auto to switch with system.
 dark-theme: false
 
-# If you want to include your resume, set to true
-# and specify source (external or local).
-resume: false
-resume-external: true
-resume-url: https://google.com/?q=my+resume
-
 baseurl: '/'
-
-#url: https://sergiokopplin.github.io/indigo
-# your url: https://USERNAME.github.io
 
 permalink: pretty
 
@@ -35,7 +26,7 @@ permalink: pretty
 disqus:
   shortname: 
   categories:
-  
+
   
 # if you don't have any of social below, comment the line
 
