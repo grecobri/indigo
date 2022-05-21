@@ -21,10 +21,12 @@ resume: false
 resume-external: true
 resume-url: https://google.com/?q=my+resume
 
+baseurl: '/'
+
 #url: https://sergiokopplin.github.io/indigo
 # your url: https://USERNAME.github.io
 
-permalink: /:title/
+permalink: pretty
 
 # To enable google analytics, supply your token below
 # analytics-google: 'UA-MYANALYTICS'
